@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function SettingsPage() {
+export default function loginPage() {
   return (
     <div>
-      Settings Page!!!
+      <p>login Page!!!</p>
     </div>
   )
 }
